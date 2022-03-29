@@ -3,7 +3,7 @@
 ## My Contact Info
 * e-mail: kasiveyser@gmail.com
 * github: [kasiveyser](https://kasiveyser.github.io)
-* Telegram: [kasiveyser](https://t.me/Lord_Detson)
+* Telegram: [kasiveyser](https://t.me/kasiveyser)
 
 ## Summary
 
