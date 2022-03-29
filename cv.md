@@ -1,17 +1,30 @@
 # Viktor Dorogan
 
 ## My Contact Info
-e-mail: kasiveyser@gmail.com
-github: kasiveyser
-Telegram: 
+* e-mail: kasiveyser@gmail.com
+* github: [kasiveyser](https://kasiveyser.github.io)
+* Telegram: [kasiveyser](https://t.me/Lord_Detson)
 
 ## Summary
 
 ## Skills
 
+* HTML
+* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+* React JS, Redux (intermediate level knowledge).
+* Version control: Git (remote service GitHub).
+* Module Bundlers: Gulp, Webpack.
+* Windows OS, Linux(Ubuntu)
+* Figma(for web development)
+* Editors: Sublime, VSCode, phpStorm.
+
+## Code examples
+
 ## Experience
 
 ## Languages
+
 Russian
 
-English: pre-intermediate A2
+English: A2(pre-intermediate)
