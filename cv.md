@@ -2,7 +2,7 @@
 
 ## My Contact Info
 * e-mail: kasiveyser@gmail.com
-* github: [kasiveyser](https://github.com/kasiveyser)
+* github: [kasiveyser](https://kasiveyser.github.io)
 * Telegram: [kasiveyser](https://t.me/kasiveyser)
 
 ## Summary
